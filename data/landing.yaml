@@ -51,42 +51,42 @@ featureGrid:
   weight: 20
   template: feature grid
 
-  title: Why choose Lotus Docs?
-  subtitle: Lotus Docs is a highly configurable Hugo documentation theme. Yet, with the default configuration you can deploy and publish your documentation site in a matter of minutes. Check out some core features below.
+  title: 在这里能看到什么?
+  subtitle: 通信技术行业基于个人的分析，就业指导，技术分享，个人兴趣分享等等。
 
   items:
-    - title: Fast
+    - title: 技术分享
       icon: speed
-      description: 4 x 100's score on Google Lighthouse by default. Lotus Docs removes unused CSS, prefetches asset links, and lazy loads content images.
+      description: 个人工作中的技术分享及各种学习心得，以及各大家非保密资料文档分享
 
-    - title: SEO Friendly
+    - title: 就业指导
       icon: trending_up
-      description: Data is automatically structured to be SEO friendly. Includes Meta tags, Opengraph, and Twitter cards. Choose the settings that best suit you.
+      description: 本人非大厂工作，但会基于自己十余年的见闻经历，给出自己的见解。
 
-    - title: Secure by default
-      icon: lock
-      description: Lotus Docs' default configuration scores A+ on Mozilla Observatory. You can update the default Security Headers to suit your requirements.
+    - title: IT技术
+      icon: devices 
+      description: 个人对IT技术的理解，以及对未来技术的展望。
 
-    - title: Optional Features
-      icon: settings
-      description: Many Lotus Docs features are configurable via optional parameters. Require DocSearch for your site? Then enable it via a single setting.
+    - title: 读书笔记
+      icon: book
+      description: 书山有路勤为径，学海无涯苦作舟，个人读书笔记，以及对书籍的一些感悟。
 
-    - title: Deploy to Vercel
-      icon: change_history
-      description: Deploy to Vercel in seconds. Vercel Functions, Vercel Redirects/Rewrites, and Vercel Headers are all configurable for an enriched experience.
+    - title: 电影音乐
+      icon: movie
+      description: 个人对电影音乐的一些感悟，以及对一些经典电影的解读。
 
-    - title: Dark Mode
-      icon: dark_mode
-      description: "Prefer not to be blasted by the sun while reading? Switch to a low-light UI with the click of a button. Modify colour variables to match your branding."
+    - title: OTN光传输
+      icon: lightbulb
+      description: 个人最擅长领域，基于自己多年工作经验，分享个人对OTN光传输的理解，以及对未来光传输的展望。
 
-    - title: Search by DocSearch
-      icon: search
-      description: Search your docs with DocSearch. A powerful, efficient and accessible search solution built on Algolia Crawler & Autocomplete.
+    - title: PTN分组传送网  
+      icon: router
+      description: 个人较擅长领域，基于自己多年工作经验，分享对PTN分组传送网的理解，以及对未来PTN的展望。
 
-    - title: Multilingual Support
-      icon: translate
-      description: Lotus Docs supports Hugo's Multilingual Mode. Create documentation in multiple languages side by side with i18n support.
+    - title: 数据通信 
+      icon: computer
+      description: 个人兴趣，稍有涉及与学习，分享基于个人对数据通信的理解，以及对未来数据通信的展望。
 
-    - title: Bootstrap v5
-      icon: palette
-      description: Built on Bootstrap 5, Lotus Docs allows for a familiar, flexible, and intuitive developer experience. Easily customise your site via SCSS variables and files.
+    - title: 其他
+      icon: more
+      description: 个人兴趣，分享个人对其他领域的理解，以及对未来的展望。

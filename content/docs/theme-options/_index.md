@@ -1,6 +1,6 @@
 ---
 weight: 1130
-title: "Theme Options"
+title: "PTN SPN"
 description: "Optional features in Lotus Docs."
 icon: tune
 lead: ""

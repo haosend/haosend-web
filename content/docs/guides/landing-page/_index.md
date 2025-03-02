@@ -1,6 +1,6 @@
 ---
 weight: 505
-title: "Landing Page"
+title: "职业选择"
 description: "Landing Page Templates & Options."
 icon: flight_land
 date: 2022-12-08T19:14:15+00:00

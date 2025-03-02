@@ -3,10 +3,10 @@ weight: 100
 date: "2022-09-30T05:33:22+01:00"
 draft: false
 author: "Colin Wilson"
-title: "Overview"
+title: "概览"
 icon: "circle"
 toc: true
-description: "Lotus Docs is a modern documentation theme built for Hugo."
+description: "记录关于通信技术相关的文档和技术分享，个人三分钟热度的技术玩耍体验记录，个人的一些其他感想记录。"
 publishdate: "2022-09-30T05:33:22+01:00"
 tags: ["Beginners"]
 categories: [""]
@@ -20,15 +20,17 @@ twitter:
   image: ""
 ---
 
-Welcome to the Lotus Docs user guide. This guide shows you how to start creating technical documentation sites using Lotus Docs, including site customisation and using Lotus Docs' features and templates.
+欢迎来到Haosend的个人小站，希望能给你带来一些开心和帮助。
 
-## What is Lotus Docs?
+## 常见通信技术有哪些?
+通信的分类依据分类方式有很多种，在实际工作中，通常是以使用的产品类型分类，比如从事路由器/交换机相关内容的工程师，我们通常称为数通工程师。这种分类对应实际的社会职业，方便人们进行兴趣，收入，职业规划方面的分析和选择。
+以此依据分类，我们可以把常见的通信产品分类为：传输，数通，无线接入，有线接入，核心网，其他……
 
-Lotus Docs is a theme for the [Hugo](https://gohugo.io) static site generator (SSG), specifically designed for technical documentation sets and includes many best practices by default (The site you’re currently reading was built using the Lotus Docs theme!). Use Lotus Docs to get a working and reliable documentation site [up and running]({{% relref "quickstart" %}}) fast, leaving valuable time to focus on creating content for your users.
 
-### Features
+———————— 
+### 常见通信产品分类简介
 
-Many of the [features]({{% relref "/docs/features" %}}) and [configurations]({{% relref "configuration" %}}) available in the Lotus Docs theme are on display here in this documentation. You can clone this entire site and edit it to suit your projects, or explore the site, its source and see what Lotus Docs can do. Check out a few of Lotus Docs' features:
+分类简介:
 
 <div class="row flex-xl-wrap pb-4">
 
@@ -39,8 +41,8 @@ Many of the [features]({{% relref "/docs/features" %}}) and [configurations]({{%
         <i class="material-icons align-middle">highlight</i>
       </span>
       <div class="card-body p-0 content">
-        <p class="fs-5 fw-semibold card-title mb-1">Syntax Highlighting</p>
-        <p class="para card-text mb-0">Highlight your code blocks via PrismJS</p>
+        <p class="fs-5 fw-semibold card-title mb-1">传输</p>
+        <p class="para card-text mb-0">主要分为OTN,PTN/SPN,SDH三大类</p>
       </div>
     </div>
   </a>
@@ -53,8 +55,8 @@ Many of the [features]({{% relref "/docs/features" %}}) and [configurations]({{%
         <i class="material-icons align-middle">flight_land</i>
       </span>
       <div class="card-body p-0 content">
-        <p class="fs-5 fw-semibold card-title mb-1">Landing Page</p>
-        <p class="para card-text mb-0">Customizable landing page and templates</p>
+        <p class="fs-5 fw-semibold card-title mb-1">数通</p>
+        <p class="para card-text mb-0">主要为路由器，交换机以及园区的WLAN,xPON等</p>
       </div>
     </div>
   </a>
@@ -67,8 +69,8 @@ Many of the [features]({{% relref "/docs/features" %}}) and [configurations]({{%
         <i class="material-icons align-middle">search</i>
       </span>
       <div class="card-body p-0 content">
-        <p class="fs-5 fw-semibold card-title mb-1">DocSearch</p>
-        <p class="para card-text mb-0">A powerful Server Side Search plugin</p>
+        <p class="fs-5 fw-semibold card-title mb-1">无线</p>
+        <p class="para card-text mb-0">最常见的手机通信技术，包括2G，3G，4G，5G以及正在研究的6G</p>
       </div>
     </div>
   </a>
@@ -81,8 +83,8 @@ Many of the [features]({{% relref "/docs/features" %}}) and [configurations]({{%
         <i class="material-icons align-middle">trending_up</i>
       </span>
       <div class="card-body p-0 content">
-        <p class="fs-5 fw-semibold card-title mb-1">Plausible Analytics</p>
-        <p class="para card-text mb-0">Open source, Privacy-focused web analytics</p>
+        <p class="fs-5 fw-semibold card-title mb-1">接入网</p>
+        <p class="para card-text mb-0">有线接入，即常见的家庭宽带，包括光猫ONU，OLT，BRAS设备，提供包括宽带，IPTV，电话，视频等业务</p>
       </div>
     </div>
   </a>
@@ -95,8 +97,8 @@ Many of the [features]({{% relref "/docs/features" %}}) and [configurations]({{%
         <i class="material-icons align-middle">code</i>
       </span>
       <div class="card-body p-0 content">
-        <p class="fs-5 fw-semibold card-title mb-1">Shortcodes</p>
-        <p class="para card-text mb-0">Custom shortcodes for when you want to do more than Markdown can offer</p>
+        <p class="fs-5 fw-semibold card-title mb-1">核心网</p>
+        <p class="para card-text mb-0">较少见的通信设备，和手机无线网络配套使用，其功能更类似于服务器等IT产品，提供包括手机签权，呼叫，计费等功能</p>
       </div>
     </div>
   </a>
@@ -109,8 +111,8 @@ Many of the [features]({{% relref "/docs/features" %}}) and [configurations]({{%
         <i class="material-icons align-middle">reviews</i>
       </span>
       <div class="card-body p-0 content">
-        <p class="fs-5 fw-semibold card-title mb-1">Feedback Widget</p>
-        <p class="para card-text mb-0">Collect feedback from your visitors on your site’s content</p>
+        <p class="fs-5 fw-semibold card-title mb-1">其他</p>
+        <p class="para card-text mb-0">其他</p>
       </div>
     </div>
   </a>
@@ -118,8 +120,6 @@ Many of the [features]({{% relref "/docs/features" %}}) and [configurations]({{%
 
 </div>
 
-## Who is Lotus Docs for?
+## 各通信分类职业前景如何?
 
-Lotus Docs is (currently) suited to small or medium technical documentation sets with 100 or fewer pages of docs. That's not to say Lotus Docs won't scale to larger documentation sets, just that its navigation and site structure may not be sufficient for larger data sets without heavy customisation.
-
-The good news is that development to accommodate such sites is part of the development roadmap. So keep an eye on the [Lotus Docs GitHub repository](https://github.com/colinwilson/lotusdocs) for updates.
+待补充。

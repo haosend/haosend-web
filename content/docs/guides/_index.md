@@ -1,6 +1,6 @@
 ---
 weight: 500
-title: "Guides"
+title: "入门"
 description: "Guides to getting the most out of Lotus Docs."
 icon: menu_book
 date: 2022-11-22T12:36:15+00:00

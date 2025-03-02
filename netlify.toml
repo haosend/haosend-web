@@ -1,5 +1,5 @@
 [build]
-  publish = "haosend-web/public"
+  publish = "/public"
  
   [build.environment]
     HUGO_VERSION = "0.145.0"

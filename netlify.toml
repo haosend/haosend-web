@@ -1,6 +1,6 @@
 [build]
   publish = "haosend-web/public"
-  command = "cd exampleSite && hugo --gc --minify --themesDir ../.. -b ${DEPLOY_PRIME_URL}"
+  command = "cd haosend-web && hugo --gc --minify --themesDir ../.. -b ${DEPLOY_PRIME_URL}"
 
 
   [build.environment]

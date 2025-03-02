@@ -1,5 +1,5 @@
 baseURL = "/" # (or set via env variable HUGO_BASEURL)
-languageCode = "en-GB"
+languageCode = "zh-CN"
 title = "Lotus Docs | A Hugo Documentation Theme"
 # theme = "lotusdocs"
 contentDir = "content"

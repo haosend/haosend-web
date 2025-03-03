@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation on Lotus Docs | A Hugo Documentation Theme</title>
+    <link>//localhost:1313/docs/</link>
+    <description>Recent content in Documentation on Lotus Docs | A Hugo Documentation Theme</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Tue, 04 Mar 2025 00:04:54 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview</title>
+      <link>//localhost:1313/docs/overview/</link>
+      <pubDate>Fri, 30 Sep 2022 05:33:22 +0100</pubDate>
+      <guid>//localhost:1313/docs/overview/</guid>
+      <description>&lt;p&gt;Welcome to the Lotus Docs user guide. This guide shows you how to start creating technical documentation sites using Lotus Docs, including site customisation and using Lotus Docs&amp;rsquo; features and templates.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-lotus-docs&#34;&gt;What is Lotus Docs? &lt;a href=&#34;#what-is-lotus-docs&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Lotus Docs is a theme for the &lt;a href=&#34;https://gohugo.io&#34; rel=&#34;external&#34; target=&#34;_blank&#34;&gt;Hugo&lt;svg width=&#34;16&#34; height=&#34;16&#34; viewBox=&#34;0 0 24 24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M14 5c-.552 0-1-.448-1-1s.448-1 1-1h6c.552 0 1 .448 1 1v6c0 .552-.448 1-1 1s-1-.448-1-1v-3.586l-7.293 7.293c-.391.39-1.024.39-1.414 0-.391-.391-.391-1.024 0-1.414l7.293-7.293h-3.586zm-9 2c-.552 0-1 .448-1 1v11c0 .552.448 1 1 1h11c.552 0 1-.448 1-1v-4.563c0-.552.448-1 1-1s1 .448 1 1v4.563c0 1.657-1.343 3-3 3h-11c-1.657 0-3-1.343-3-3v-11c0-1.657 1.343-3 3-3h4.563c.552 0 1 .448 1 1s-.448 1-1 1h-4.563z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt; static site generator (SSG), specifically designed for technical documentation sets and includes many best practices by default (The site you’re currently reading was built using the Lotus Docs theme!). Use Lotus Docs to get a working and reliable documentation site &lt;a data-bs-delay=&#34;{&amp;#34;hide&amp;#34;:300,&amp;#34;show&amp;#34;:550}&#34; data-bs-html=&#34;true&#34; data-bs-title=&#34;&lt;a href=&#39;//localhost:1313/docs/quickstart/&#39;&gt;&lt;p&gt;DOCUMENTATION&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quickstart</title>
+      <link>//localhost:1313/docs/quickstart/</link>
+      <pubDate>Fri, 30 Sep 2022 05:34:22 +0100</pubDate>
+      <guid>//localhost:1313/docs/quickstart/</guid>
+      <description>&lt;h2 id=&#34;requirements&#34;&gt;Requirements &lt;a href=&#34;#requirements&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;git&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Go ≥ v1.21&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hugo ≥ v0.140.0&lt;/strong&gt; (&lt;strong&gt;Extended Version&lt;/strong&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;install-hugo&#34;&gt;Install Hugo &lt;a href=&#34;#install-hugo&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Install the &lt;a href=&#34;https://github.com/gohugoio/hugo/releases/latest&#34; rel=&#34;external&#34; target=&#34;_blank&#34;&gt;Hugo CLI&lt;svg width=&#34;16&#34; height=&#34;16&#34; viewBox=&#34;0 0 24 24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M14 5c-.552 0-1-.448-1-1s.448-1 1-1h6c.552 0 1 .448 1 1v6c0 .552-.448 1-1 1s-1-.448-1-1v-3.586l-7.293 7.293c-.391.39-1.024.39-1.414 0-.391-.391-.391-1.024 0-1.414l7.293-7.293h-3.586zm-9 2c-.552 0-1 .448-1 1v11c0 .552.448 1 1 1h11c.552 0 1-.448 1-1v-4.563c0-.552.448-1 1-1s1 .448 1 1v4.563c0 1.657-1.343 3-3 3h-11c-1.657 0-3-1.343-3-3v-11c0-1.657 1.343-3 3-3h4.563c.552 0 1 .448 1 1s-.448 1-1 1h-4.563z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;, using the specific instructions for your operating system below:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

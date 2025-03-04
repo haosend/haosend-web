@@ -1,4 +1,4 @@
-baseURL = "https://haosen.netlify.app" # (or set via env variable HUGO_BASEURL)
+baseURL = "https://haosend.com" # (or set via env variable HUGO_BASEURL)
 languageCode = "en-GB"
 title = "Lotus Docs | A Hugo Documentation Theme"
 # theme = "lotusdocs"
